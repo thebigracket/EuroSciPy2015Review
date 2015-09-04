@@ -3,15 +3,16 @@ WHAT CAN I SAY...
 Adrian
 -Bokeh
 -Cython
--matplotlib?
--pick a favourite talk
 
 Arnoldas
 -pandas
 -matplotlib?
--pick a favourite talk
 
 Inigo
 -Python basix ... i learned me a python for great good
--Numpy basix ... 1,2,3
+-Numpy tutorial + Numpy 100
+-numexpr
+-PyQT scientific
+-ReScience
 -pick a favourite talk... HoloViews? http://ioam.github.io/holoviews/
+-Hintjens
