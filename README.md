@@ -1,2 +1,2 @@
-# EuroSciPy2015Review
-what we gone and done
+# Python Review
+Notes, tips & tricks from EuroSciPy'15
